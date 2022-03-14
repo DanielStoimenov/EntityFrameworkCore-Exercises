@@ -10,11 +10,11 @@ namespace SoftUni
     {
         public static void Main(string[] args)
         {
-            var db = new SoftUniContext();
+            // var db = new SoftUniContext();
 
-            string result = RemoveTown(db);
+            // string result = RemoveTown(db);
 
-            Console.WriteLine(result);
+            // Console.WriteLine(result);
         }
 
         // Problem 03
